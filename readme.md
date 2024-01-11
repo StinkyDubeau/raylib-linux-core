@@ -1,5 +1,5 @@
 <h1>Raylib Linux Core</h1>
-This is a barebones. Raylib has been precompiled for desktop targets.
+This is a barebones setup for linux. Raylib has been precompiled for desktop targets.
 
 To get started, follow:
 
